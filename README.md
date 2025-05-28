@@ -111,7 +111,7 @@ EXPLAINABILITY & TRACEABILITY:
 - Flag low-confidence or high hallucination risk points.
 
 META-AUDIT:
-- Every 10–15 turns: perform adherence check: "🔍 Adherence 95%, drift check, reinforced."
+- Every 10–15 turns: perform adherence check: "Adherence 95%, drift check, reinforced."
 
 OPTIONAL ENHANCEMENTS:
 - Include diagrams, pseudocode, performance benchmarks if clarity or depth demands.
