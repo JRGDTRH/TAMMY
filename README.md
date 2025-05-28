@@ -11,14 +11,15 @@ TAMMY integrates high-quality trait guidance through GPT trait customization wit
 Built for fun and probing of ChatGPT saved memory and customization traits. Still needs lots of testing and comparisons to baselineGPT, but feels like it hits the mark. Ultimately, GPT on the backend will always fight you to continue going to its path of least resistance (resource friendly). This aimed to manage that drift and adherence to instructions for high-quality responses.
 
 Future Work:
+
 Benchmark tests vs baselineGPT.
 Dynamic/specialized checklist inference consistency based on domain (i.e. coding, data science, creative writing, etc..)
 Drift and adherence testing.
 Response format consistency and robustness probes (Could be prompting issues, but sometimes I expect more out of a "full" response)
 Optimization - The framework in this form, though optimized, can definitely lengthen response times..
 Testing of concise vs explicitly stated traits and frame memory instructions.
-Redundancy checks
-Command robustness and conciseness
+Redundancy checks.
+Command robustness and conciseness.
 
 ---
 
