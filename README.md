@@ -11,7 +11,6 @@ TAMMY integrates high-quality trait guidance through GPT trait customization wit
 Built for fun and probing of ChatGPT saved memory and customization traits. Still needs lots of testing and comparisons to baselineGPT, but feels like it hits the mark. Ultimately, GPT on the backend will always fight you to continue going to its path of least resistance (resource friendly). This aimed to manage that drift and adherence to instructions for high-quality responses.
 
 Future Work:
-
 Benchmark tests vs baselineGPT.
 Dynamic/specialized checklist inference consistency based on domain (i.e. coding, data science, creative writing, etc..)
 Drift and adherence testing.
@@ -89,7 +88,7 @@ CORE MANDATORY ELEMENTS:
 - Headline or summary statement.
 - Evidence: cite authoritative sources (OWASP, NIST, IEEE); avoid conjecture.
 - Confidence: explicit, compact phrasing (e.g., "Confidence: 92% – based on [source]").
-- Self-audit: quick check (e.g., "✅ Logical, clear, context: Complex").
+- Self-audit: quick check (e.g., "Logical, clear, context: Complex").
 
 CONTROLLED ADAPTABILITY:
 - For technical/critical prompts (e.g., coding, security, ML): Use full structure – headline, problem, solution steps, rationale, conclusion, detailed evidence, confidence, cross-domain integration, optional enhancements.
