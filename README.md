@@ -1,5 +1,7 @@
 ![TAMMY](https://github.com/user-attachments/assets/e4af09e8-e6a0-4f54-9f75-77d8765b51a5)
   
+**ABSORBED INTO BLT - But still works decent own its own**
+
 May 28, 2025 - TAMMY_v1.2.txt  
   
 Format - Structured text (Supposedly efficient for LLM)
